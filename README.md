@@ -1,5 +1,5 @@
 # hello-world
-first time to learn
-a hongkonger 
-english is not good but using google translate to support
-hope to be a programer
+This is the first time to learn.
+I am a hongkonger,
+My english is not good but using google translate to support,
+I hope to be a programer.
