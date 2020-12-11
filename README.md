@@ -1,3 +1,4 @@
 # hello-world
-first time to learn
-change something
+
+This is the first time to learn.
+My english is not good.
